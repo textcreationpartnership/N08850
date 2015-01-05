@@ -109,8 +109,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:011301_0000_0F86F20B9BB9C358"/>
-            <pb facs="tcp:011301_0001_0F86F20C58852538" rendition="simple:additions"/>
+            <pb facs="unknown:011301_0000_0F86F20B9BB9C358"/>
+            <pb facs="unknown:011301_0001_0F86F20C58852538"
+                rendition="simple:additions"/>
             <p>MINUTES OF CONFERENCES, HELD AT <hi>FORT-PITT,</hi> IN APRIL AND MAY, 1768, UNDER THE DIRECTION OF <hi>GEORGE CROGHAN,</hi> Eſquire, DEPUTY AGENT for <hi>INDIAN</hi> AFFAIRS, WITH THE CHIEFS and WARRIORS OF THE <hi>Ohio</hi> and other <hi>Weſtern INDIANS.</hi>
             </p>
             <p>
@@ -119,7 +120,7 @@
       </front>
       <body>
          <div type="minutes_of_conferences">
-            <pb n="3" facs="tcp:011301_0002_0F86F20CA6BAF290"/>
+            <pb n="3" facs="unknown:011301_0002_0F86F20CA6BAF290"/>
             <head>Minutes of Conferences, <hi>&amp;c.</hi> At a <hi>CONFERENCE</hi> held at <hi>Port-Pitt,</hi> on <hi>Tueſday</hi> the Twenty-ſixth Day of <hi>April, 1768,</hi> with the Chiefs and principal Warriors of the <hi>Six Nations, Delawares, Shawaneſe, Munſies</hi> and <hi>Mohickons,</hi> re<gap reason="illegible" resp="#PDCC" extent="3 letters">
                   <desc>•••</desc>
                </gap>ing on the Waters of the <hi>Ohio.</hi>
@@ -224,7 +225,7 @@
                   </item>
                </list>
                <list>
-                  <pb n="4" facs="tcp:011301_0003_0F86F20D4D81B7C8"/>
+                  <pb n="4" facs="unknown:011301_0003_0F86F20D4D81B7C8"/>
                   <head>Six Nations.</head>
                   <item>Toeageda, <hi>Chief Warriors.</hi>
                   </item>
@@ -387,7 +388,7 @@
                   <hi>A String.</hi>
                </p>
                <p>
-                  <pb n="5" facs="tcp:011301_0004_0F86F20E0B06DC58"/>
+                  <pb n="5" facs="unknown:011301_0004_0F86F20E0B06DC58"/>
                   <hi>Brethren,</hi>
                </p>
                <p>I take this firſt Opportunity of our Meeting in Council,<note place="margin">176<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -436,7 +437,7 @@
                   </body>
                </floatingText>
                <p>
-                  <pb n="6" facs="tcp:011301_0005_0F86F21012747108"/>
+                  <pb n="6" facs="unknown:011301_0005_0F86F21012747108"/>
                   <note place="margin">1768.</note>WENESDAY, 27th <hi>APRIL,</hi> Mr. <hi>Croghan,</hi> and the Commiſſioners of <hi>Pennſylvania,</hi> had a Meeting with the Chiefs of the ſeveral Tribes, and explained to them the Heads of the ſeveral Speeches to be delivered to them from the Governor of <hi>Pennſylvania.</hi> After the above Chiefs had conſidered what had been told them, the <hi>Delawares</hi> and <hi>Shawaneſe</hi> on a Belt and String of Wampum expreſſed their Satisfaction at ſeeing Com<g ref="char:EOLhyphen"/>miſſioners from <hi>Pennſylvania,</hi> at their Council Fire; and returned Mr. <hi>Croghan</hi> Thanks for introducing them to their ſeveral Nations, aſſuring him they would pay due Attention to what thoſe Gentlemen ſhould ſay to them from their Brother <hi>Onas</hi> and their Brethren of that Province.</p>
                <p>
                   <hi>A Belt and String.</hi>
@@ -530,7 +531,7 @@
                         </gap> Sir <hi>William Johnſon,</hi> and promiſed you that as ſoon as I ſhould receive his Anſwer, yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>
-                        <pb n="7" facs="tcp:011301_0006_0F86F210B742E190"/>
+                        <pb n="7" facs="unknown:011301_0006_0F86F210B742E190"/>
 ſhould hear from me again;<note place="margin">176<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>
@@ -580,7 +581,7 @@
                      </p>
                      <p>I have told you every Thing I had to ſay to you relative to the unhappy Murder committed by two of our wicked People, on ſome of your Brethren; and as I am, and have been, doing every Thing in my Power to bring thoſe Offenders to Juſtice, I can<g ref="char:EOLhyphen"/>not help reminding you of the Number of People I have loſt in the <hi>Indian</hi> Country, by ſome of your fooliſh young Men; and as I am determined that the ſtricteſt Juſtice ſhall be done you, I muſt let you know that I expect the ſame Juſtice from you for the Loſs of His Majeſty's Subjects intruſted to my Care. This is agreeable to the Treaties of Friendſhip long ſubſiſting between your ſeveral Nations and us; and if we both unite in attending ſtrictly to thoſe Treaties, we ſhall be able to preſerve the Chain of Friendſhip bright, and without Ruſt.</p>
                      <p>It was likewiſe agreed at thoſe Treaties, that whenever any Accident ſhould hap<g ref="char:EOLhyphen"/>pen, that might give the leaſt Uneaſineſs, or in any Manner endanger the Friendſhip
-<pb n="8" facs="tcp:011301_0007_0F86F212043FD460"/>
+<pb n="8" facs="unknown:011301_0007_0F86F212043FD460"/>
 ſubſiſting between us,<note place="margin">1768.</note> we ſhould immediately inform each other of it.—Now yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> ſee that I have not forgot thoſe antient Treaties, for, as ſoon as I had Knowledge o<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -673,7 +674,7 @@
                   </gap> for the future; and do now deſire you the <hi>Shawaneſe, Delawares,</hi> and <hi>Wyandotts</hi> to d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
-                  <pb n="9" facs="tcp:011301_0008_0F86F2128A49E940"/>
+                  <pb n="9" facs="unknown:011301_0008_0F86F2128A49E940"/>
 the ſame, and to throw all evil Thoughts cut of your Minds and Hearts;<note place="margin">17<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>
@@ -714,7 +715,7 @@ the ſame, and to throw all evil Thoughts cut of your Minds and Hearts;<note pla
                   <hi>Brother,</hi>
                </p>
                <p>I now gather all the Bones of your deceaſed Friends, and bury them in the Ground, in the ſame Place with ours, ſo deep that none of our young People may ever know
-<pb n="10" facs="tcp:011301_0009_0F86F214F4F70560"/>
+<pb n="10" facs="unknown:011301_0009_0F86F214F4F70560"/>
 that any Misfortunes have happened between us;<note place="margin">1768.</note> and it gives us great Satisfaction that our Brother <hi>Onas</hi> has not forgot this ancient Cuſtom of condoling with us for our Loſſes.</p>
                <p>
                   <hi>A Belt.</hi>
@@ -775,7 +776,7 @@ that any Misfortunes have happened between us;<note place="margin">1768.</note> 
                   <hi>A Belt.</hi>
                </p>
                <p>
-                  <pb n="11" facs="tcp:011301_0010_0F86F21622A90FE8"/>The Speaker of the <hi>Delawares</hi> then obſerved that they had finiſhed what they had to ſay at this Time.<note place="margin">176<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="11" facs="unknown:011301_0010_0F86F21622A90FE8"/>The Speaker of the <hi>Delawares</hi> then obſerved that they had finiſhed what they had to ſay at this Time.<note place="margin">176<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>.</note>
                </p>
@@ -836,7 +837,7 @@ that any Misfortunes have happened between us;<note place="margin">1768.</note> 
                   <hi>A Belt.</hi>
                </p>
                <p>
-                  <pb n="12" facs="tcp:011301_0011_0F86F21656F7A768"/>
+                  <pb n="12" facs="unknown:011301_0011_0F86F21656F7A768"/>
                   <note place="margin">1768.</note>
                   <hi>Brother,</hi>
                </p>
@@ -877,7 +878,7 @@ that any Misfortunes have happened between us;<note place="margin">1768.</note> 
                <p>The Reaſon of our mentioning this Matter, at this Time is, becauſe we hope you will take Pity on us, and do as we have deſired you.</p>
                <p>Then <hi>Kiſſonaucththa,</hi> a Chief of the <hi>Shawaneſe,</hi> roſe up and ſaid,</p>
                <p>
-                  <pb n="13" facs="tcp:011301_0012_0F86F2172D280730"/>
+                  <pb n="13" facs="unknown:011301_0012_0F86F2172D280730"/>
                   <hi>Brethren,</hi>
                   <note place="margin">176<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -924,7 +925,7 @@ that any Misfortunes have happened between us;<note place="margin">1768.</note> 
                </p>
                <p>Then <hi>Kayaſhuta,</hi> a Chief of the <hi>Senecas,</hi> got up, and laying down a Copy of the Treaty of Peace, made by Col. <hi>Broadſtreet</hi> with the <hi>Indians,</hi> in the Year 1764, ſpoke as follows:</p>
                <p>
-                  <pb n="14" facs="tcp:011301_0013_0F86F217CDEB5EA8"/>
+                  <pb n="14" facs="unknown:011301_0013_0F86F217CDEB5EA8"/>
                   <note place="margin">1768.</note>
                   <hi>Brethren,</hi>
                </p>
@@ -964,7 +965,7 @@ that any Misfortunes have happened between us;<note place="margin">1768.</note> 
                   <hi>Brethren,</hi>
                </p>
                <p>Thoſe four Men have lately returned home, and reported to the Governor of <hi>Penn<g ref="char:EOLhyphen"/>ſylvania,</hi> that they had executed his Orders; but that they were told by the People
-<pb n="15" facs="tcp:011301_0014_0F86F218A20394A0"/>
+<pb n="15" facs="unknown:011301_0014_0F86F218A20394A0"/>
 ſettled at and near <hi>Redſtone</hi> Creek,<note place="margin">17<gap reason="illegible" resp="#PDCC" extent="2 letters">
                         <desc>••</desc>
                      </gap>
@@ -992,7 +993,7 @@ that any Misfortunes have happened between us;<note place="margin">1768.</note> 
                </p>
                <p>We now return you Thanks, in the Name of the Governor of <hi>Pennſylvania,</hi> and in Behalf of the good People of that Province, for the kind Manner in which you have received his Meſſages by us. We aſſure you it gave us great Satisfaction to hear you declare, in this public Council, your hearty Concurrence with him in keeping faſt hold of the Chain of Friendſhip, and your Determination to preſerve it bright, and not to ſuffer any little Accidents to make a Breach in it.</p>
                <p>
-                  <pb n="16" facs="tcp:011301_0015_0F86F219EF1C97B8"/>
+                  <pb n="16" facs="unknown:011301_0015_0F86F219EF1C97B8"/>
                   <note place="margin">1768.</note>
                   <hi>Brethren,</hi>
                </p>
@@ -1040,7 +1041,7 @@ that any Misfortunes have happened between us;<note place="margin">1768.</note> 
                <p>By the late Treaty of Peace between the King of <hi>Great-Britain</hi> and the <hi>French</hi> King, the latter gave us Poſſeſſion of all their Forts and Towns, as we had conquered them. You likewiſe took Notice, Yeſterday, of our building Boats, and making Repairs to this Fort. I muſt tell you, that the King my Maſter never made War o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> any <hi>Indian</hi> Nation in this Country; on the contrary, he has always promoted Peace
-<pb n="17" facs="tcp:011301_0016_0F86F21A1181FEA0"/>
+<pb n="17" facs="unknown:011301_0016_0F86F21A1181FEA0"/>
 among you;<note place="margin">176<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>
@@ -1075,7 +1076,7 @@ among you;<note place="margin">176<gap reason="illegible" resp="#PDCC" extent="1
                <p>
                   <hi>Brethren of the</hi> Six Nations, <hi>who are ſettled at the</hi> Two Creeks,</p>
                <p>I am ſorry to hear from ſome of your Brethren, the <hi>Engliſh,</hi> that whenever any of them paſs by your Village, you take Rum and other Things from them. You muſt be ſenſible this Conduct is very wrong, and a Breach of your Engagements to us. I hope I ſhall hear no more of it. You have been deſired three Years ago, by the <hi>Six Nation</hi> Council, to remove up this River nearer to their Country, and I now deſire
-<pb n="18" facs="tcp:011301_0017_0F86F21AE31E99C0"/>
+<pb n="18" facs="unknown:011301_0017_0F86F21AE31E99C0"/>
 you will take that Meſſage into your moſt ſerious Conſideration,<note place="margin">1768.</note> and do as they have directed you; which will be very agreeable to all your Brethren the <hi>Engliſh.</hi>
                </p>
                <p>
@@ -1141,7 +1142,7 @@ you will take that Meſſage into your moſt ſerious Conſideration,<note place
                   <hi>Brethren,</hi>
                </p>
                <p>We have now done ſpeaking on Buſineſs, and every Thing has been ſettled at the Conference to our Satisfaction; and we have agreed, that two of our principal War<g ref="char:EOLunhyphen"/>riors,
-<pb n="19" facs="tcp:011301_0018_0F86F21BA14D0E10"/>
+<pb n="19" facs="unknown:011301_0018_0F86F21BA14D0E10"/>
 named <hi>Quequedaguedo</hi> and <hi>Killbuck,</hi> ſhall accompany you to <hi>Philadelphia;</hi>
                   <note place="margin">176<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -1187,7 +1188,7 @@ named <hi>Quequedaguedo</hi> and <hi>Killbuck,</hi> ſhall accompany you to <hi>
                <p>When you ſpoke to us the next Day, you told us every Thing that paſſed in the Time of War, as well as ſince, which is very true; and we acknowledge we were wrong, though we did not expect you would do as we requeſted. And, from what you have told us, we know that it is not in the Power of any other Perſon but the King our Father. And though you ſay, we are the only Nation that has mentioned this to you, we know that all other Nations of <hi>Indians</hi> wiſh, as well as we, that there were no Forts in this Country.</p>
                <p>As to what we ſaid about the Boats going down the River, we did not mean that they ſhould not go, but deſired you would not ſend them till we had Time to go and counſel with the Nations in that Country, as we have heard bad News from thence. And as to what we ſaid about our People that were killed, when you were taken Priſoner, we only mentioned it to ſhew you what a fooliſh People the <hi>Indians</hi> there are. It is very true, Brother, we did ſend a Hatchet to thoſe Na<g ref="char:EOLhyphen"/>tions in Time of War; but it was ſent to us from the <hi>Senecas,</hi> to carry to them.</p>
                <p>
-                  <pb n="20" facs="tcp:011301_0019_0F86F21C5D221970"/>
+                  <pb n="20" facs="unknown:011301_0019_0F86F21C5D221970"/>
                   <hi>Brother,</hi>
                </p>
                <p>
@@ -1234,7 +1235,7 @@ named <hi>Quequedaguedo</hi> and <hi>Killbuck,</hi> ſhall accompany you to <hi>
                         </gap> a few ſtraggling <hi>Indians</hi> of no Conſequence, who may have encouraged them to con<g ref="char:EOLunhyphen"/>tinue on their Settlements; and that they will now be left without the leaſt Pretenc<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>
-                        <pb n="21" facs="tcp:011301_0020_0F86F21D0FCA0DA0"/>
+                        <pb n="21" facs="unknown:011301_0020_0F86F21D0FCA0DA0"/>
 or Excuſe for ſtaying on them any longer. However, we make no Doubt, but,<note place="margin">176<gap reason="illegible" resp="#PDCC" extent="1 letter">
                               <desc>•</desc>
                            </gap>
@@ -1261,7 +1262,7 @@ or Excuſe for ſtaying on them any longer. However, we make no Doubt, but,<note
                </floatingText>
                <p>Meſſrs. <hi>Frazer</hi> and <hi>Thompſon</hi> being in Readineſs with their Horſes and Proviſions, for their Journey to <hi>Redſtone</hi> Creek, the Commiſſioners ſent ſeveral Times for the <hi>Indian</hi> Meſſengers, who at laſt came to them to the Fort, and acquainted them that they had been ſeriouſly conſidering the Buſineſs they were going to be ſent on, and it now appeared to them ſo diſagreeable, that they could by no means conſent to undertake it, and immediately returned the Wampum which had been given them. Upon being interrogated, as to the Reaſons of their declining to perform what they had conſented to, they anſwered, that three of them were ſent as Deputies by the <hi>Six Nation</hi> Coun<g ref="char:EOLhyphen"/>cil to attend the Treaty here; and having received no Directions from them to pro<g ref="char:EOLhyphen"/>ceed any further, they choſe to return Home, in order to make Report of what they had ſeen and heard at this Place. They further added, that the driving white People away from their Settlements was a Matter which no <hi>Indians</hi> could, with any Satiſ<g ref="char:EOLhyphen"/>faction, be concerned in, and they thought it moſt proper for the <hi>Engliſh</hi> themſelves to compel their own People to remove from the <hi>Indian</hi> Lands.</p>
                <p>After this Refuſal of the <hi>Indians,</hi> who had been appointed to carry the Meſſage from the <hi>Six Nations,</hi> the Commiſſioners in vain attempted to perſuade or procure others to execute the Buſineſs, though they uſed great Endeavours for that Purpoſe; and they thought it both uſeleſs and imprudent to continue to preſs a Matter on the <hi>In<g ref="char:EOLhyphen"/>dians,</hi> which they found they were generally much averſe to; and therefore con<g ref="char:EOLhyphen"/>cluded to ſet out on their Return to <hi>Philadelphia,</hi> without further Delay. But in a ſhort Time afterwards <hi>Kayaſhuta</hi> came with <hi>Arroas</hi> (a principal Warrior of the <hi>Six
-<pb n="22" facs="tcp:011301_0021_0F86F21DCE4BD9E0"/>
+<pb n="22" facs="unknown:011301_0021_0F86F21DCE4BD9E0"/>
 Nations)</hi> to the Commiſſioners at their Lodgings;<note place="margin">1768.</note> where the former addreſſed himſelf to them in Effect as follows, <hi>viz.</hi>
                </p>
                <p>
